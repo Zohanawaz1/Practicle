@@ -1,0 +1,53 @@
+nav{
+  background-color: rgb(10, 66, 86);
+}
+
+main h1{
+   
+  font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main h4{
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main{
+    background-image: url(../img/pexels-karolina-grabowska-5980886.jpg);
+    background-size: cover;
+    height: 500px;
+    
+}
+
+header{
+    background-color: rgb(10, 66, 86);;
+}
+ 
+footer{
+    
+    background-color:rgb(10, 66, 86);
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img{
+    height: 200px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+h2{
+
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.card:hover{
+    box-shadow: 0 0 8px black;
+}
+
