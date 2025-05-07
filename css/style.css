@@ -21,7 +21,7 @@ main{
 }
 
 header{
-    background-color: rgb(10, 66, 86);;
+    background-color: rgb(10, 66, 86);
 }
  
 footer{
@@ -49,5 +49,9 @@ h2{
 
 .card:hover{
     box-shadow: 0 0 8px black;
+}
+
+section{
+    background-color: rgb(10, 66, 86);
 }
 
